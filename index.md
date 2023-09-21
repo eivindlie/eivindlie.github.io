@@ -5,4 +5,4 @@
 layout: home
 ---
 
-_**Prograd**: Fremadgående &mdash; typisk om bevegelsen til himmellegemer._
+_**Prograd**: progrˈad. Fremadgående. (Brukes gjerne om bevegelsen til himmellegemer.)_
