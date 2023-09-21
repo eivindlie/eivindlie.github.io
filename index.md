@@ -5,4 +5,4 @@
 layout: home
 ---
 
-_**Prograd**: En fremadgående bevegelse._
+_**Prograd**: Fremadgående &mdash; typisk om bevegelsen til himmellegemer._
