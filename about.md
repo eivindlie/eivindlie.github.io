@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: Om meg
 permalink: /about/
 ---
 
-My name is Eivind Lie Andreassen, and I am a developer currently working at Bekk.
+Mitt navn er Eivind Lie Andreassen, og jeg er en utvikler som for øyeblikket jobber i Bekk.
 
-Feel free to check out [my GitHub profile](https://github.com/lagostra) – for the time being, it contains more interesting stuff than this page does...
+Sjekk gjerne ut [GitHub-profilen min](https://github.com/eivindlie) &mdash; for øyeblikket inneholder den mer interessante ting enn denne siden gjør 🙃

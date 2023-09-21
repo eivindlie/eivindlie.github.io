@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+_**Prograd**: En fremadgående bevegelse._
